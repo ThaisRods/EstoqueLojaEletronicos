@@ -108,9 +108,3 @@ Este sistema pode servir como **base para aplicações mais complexas**, como si
 * Implementação de interface gráfica
 * Sistema de autenticação de usuários
 
----
-
-## Desenvolvedora
-
-**Thais Rodrigues**
-Dezembro de 2025
