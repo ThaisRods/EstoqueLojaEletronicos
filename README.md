@@ -40,7 +40,7 @@ O sistema possibilita o controle eficiente de itens em estoque, permitindo **cad
 
 ---
 
-## 🗂️ Estrutura de Dados
+## Estrutura de Dados
 
 Os dados são armazenados em memória utilizando **dicionários Python**, estruturados da seguinte forma:
 
